@@ -22,4 +22,4 @@ int main()
     cin.get()
     ;cin.ignore();// on attend l'appui sur la touche
     return EXIT_SUCCESS;
-}
+} 
