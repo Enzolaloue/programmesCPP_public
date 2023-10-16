@@ -16,14 +16,7 @@ int main()
         cout <<endl;
     }
     
-    
-    
-    
-    
-    
-    
-    
-    cin.get();
+     cin.get();
     cin.ignore();
     return 0;
 }
